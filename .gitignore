@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+GitHubTest/GitHubTest.sln
+GitHubTest/.vs/GitHubTest/v16/.suo
+GitHubTest/.vs/GitHubTest/v16/Preview/Browse.VC.db
+GitHubTest/.vs/
+GitHubTest/Debug/
+GitHubTest/GitHubTest/GitHubTest.vcxproj
+GitHubTest/GitHubTest/GitHubTest.vcxproj.filters
+GitHubTest/GitHubTest/GitHubTest.vcxproj.user
+GitHubTest/GitHubTest/Debug/
